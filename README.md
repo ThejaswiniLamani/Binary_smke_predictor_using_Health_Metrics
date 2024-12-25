@@ -86,7 +86,8 @@ Health parameters are broader metrics relating to overall health and risk factor
   - `n_estimators=150`
   - `eval_metric='logloss'`
   - `random_state=42`
- ### XGBoost Classifier
+  - 
+ ### Gradient Boosting
 - **Accuracy**: 0.77
 - **Cross-validation Accuracy**: 0.77
 
