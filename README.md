@@ -167,4 +167,4 @@ Health parameters are broader metrics relating to overall health and risk factor
 ---
 
 ## Conclusion
-XGBoost emerged as the top-performing model with the highest accuracy (77%) and cross-validation score (~78%). Logistic Regression and Decision Tree followed, both achieving 75% accuracy, while Random Forest performed slightly better with 76% accuracy. This demonstrates the efficacy of ensemble methods for predicting smoker status.
+XGBoost emerged as the top-performing model with the highest accuracy (78%) and cross-validation score (~78%). Logistic Regression and Decision Tree followed, both achieving 75% accuracy, while Random Forest performed slightly better with 76% accuracy. This demonstrates the efficacy of ensemble methods for predicting smoker status.
